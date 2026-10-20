@@ -5,7 +5,7 @@ on:
     inputs:
       name:
         description: 'Person to greet'
-        default: 'World'
+        default: 'Chris'
         required: true
 
 jobs:
